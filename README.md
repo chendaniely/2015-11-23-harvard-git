@@ -11,3 +11,5 @@ We will learn not to do this anymore: https://xkcd.com/1597/
 
 Please write good commit messages: https://xkcd.com/1296/
 
+Git will help you version control so you you really do end up with 1 final doc: http://www.phdcomics.com/comics/archive.php?comicid=1531
+
