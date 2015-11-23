@@ -7,3 +7,4 @@ You can read up on the software carpentry Git lesson here: http://swcarpentry.gi
 Link to the etherpad: http://pad.software-carpentry.org/2015-11-23-harvard
 I will save this after the workshop into the course website so it's backed up in multiple places.
 
+We will learn not to do this anymore: https://xkcd.com/1597/
